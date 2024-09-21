@@ -5,9 +5,13 @@
     {"name":"Gray","order":4,"path":"folders/All Assets/Gray.yy",},
     {"name":"Green","order":3,"path":"folders/All Assets/Green.yy",},
     {"name":"Red","order":2,"path":"folders/All Assets/Red.yy",},
+    {"name":"Controller","order":12,"path":"folders/Controller.yy",},
+    {"name":"Scripts","order":1,"path":"folders/Controller/Scripts.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Object_Design_for_RTS_drawio","order":1,"path":"sprites/Object_Design_for_RTS_drawio/Object_Design_for_RTS_drawio.yy",},
     {"name":"scifiUnit_02","order":1,"path":"sprites/scifiUnit_02/scifiUnit_02.yy",},
     {"name":"scifiUnit_03","order":2,"path":"sprites/scifiUnit_03/scifiUnit_03.yy",},
     {"name":"scifiUnit_04","order":3,"path":"sprites/scifiUnit_04/scifiUnit_04.yy",},
