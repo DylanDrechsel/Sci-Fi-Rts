@@ -25,6 +25,9 @@ function handleSelection(){
             y >= min(boxStartY, boxEndY) && y <= max(boxStartY, boxEndY)) {
             // Select the unit
             selected = true;
+			
+			// Add the selected unit to the selectedUnits array
+			selectedUnits[array_length(selectedUnits)] = id;
         } else {
             // Deselect if not inside the box
             selected = false;

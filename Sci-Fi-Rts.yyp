@@ -42,6 +42,7 @@
     {"id":{"name":"oUnitController","path":"objects/oUnitController/oUnitController.yy",},},
     {"id":{"name":"pEntity","path":"objects/pEntity/pEntity.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"handleMovement","path":"scripts/handleMovement/handleMovement.yy",},},
     {"id":{"name":"handleSelection","path":"scripts/handleSelection/handleSelection.yy",},},
     {"id":{"name":"Object_Design_for_RTS_drawio","path":"sprites/Object_Design_for_RTS_drawio/Object_Design_for_RTS_drawio.yy",},},
     {"id":{"name":"sBlueBuilder","path":"sprites/sBlueBuilder/sBlueBuilder.yy",},},
