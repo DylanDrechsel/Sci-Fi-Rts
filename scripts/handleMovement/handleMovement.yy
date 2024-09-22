@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"handleMovement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"handleMovement",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Controller/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
