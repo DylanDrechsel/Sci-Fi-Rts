@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"oBuilder",
+  "%Name":"oResourceTruckParent",
   "eventList":[],
   "managed":true,
-  "name":"oBuilder",
+  "name":"oResourceTruckParent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Builders",
-    "path":"folders/Units/Builders.yy",
+    "name":"Resource Truck",
+    "path":"folders/Units/Resource Truck.yy",
   },
   "parentObjectId":{
-    "name":"oBuilderParent",
-    "path":"objects/oBuilderParent/oBuilderParent.yy",
+    "name":"oUnitController",
+    "path":"objects/oUnitController/oUnitController.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sBlueBuilder",
-    "path":"sprites/sBlueBuilder/sBlueBuilder.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
