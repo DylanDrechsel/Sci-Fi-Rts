@@ -1,21 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"oController",
+  "%Name":"oUnitController",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oController",
+  "name":"oUnitController",
   "overriddenProperties":[],
   "parent":{
     "name":"Controller",
     "path":"folders/Controller.yy",
   },
   "parentObjectId":{
-    "name":"pEntity",
-    "path":"objects/pEntity/pEntity.yy",
+    "name":"oController",
+    "path":"objects/oController/oController.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
