@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"handleSelection",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Controller/Scripts.yy",
+    "name":"oController",
+    "path":"folders/Controller/Scripts/oController.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
