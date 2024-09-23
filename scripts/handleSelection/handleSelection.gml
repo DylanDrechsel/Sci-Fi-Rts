@@ -17,7 +17,7 @@ function handleSelection() {
         selecting = false;
 
         // Clear the selectedUnits array
-        selectedUnits = [];  // Reset the array
+        selectedUnits = [];
 
         // Loop through all units to check selection
         with (oUnitController) {

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"checkMovement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkMovement",
+  "parent":{
+    "name":"oUnitController",
+    "path":"folders/Controller/Scripts/oUnitController.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
