@@ -37,7 +37,7 @@ function handleSelection() {
                 for (var i = 0; i < array_length(selectedUnits); i++) {
                     if (selectedUnits[i] == id) {
                         _inSelectedArray = true;
-                        break;  // If found, no need to check further
+                        break;
                     }
                 }
 
