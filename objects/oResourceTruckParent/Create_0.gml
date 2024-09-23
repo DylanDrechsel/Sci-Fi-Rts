@@ -1,5 +1,8 @@
 event_inherited();
 
-// Movement variables
+// Movement Variables
 spd = 5;
+
+// Type Variables
+unitType = "Vehicle";
 
