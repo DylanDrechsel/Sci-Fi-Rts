@@ -18,7 +18,7 @@ function checkMovement() {
     // Separation logic to avoid unit overlap  
     // Loop through other units to apply separation
     with (oUnitController) {
-        if (id != other.id) {  // Make sure we're not checking the unit against itself
+        if (id != other.id) {  // Ensure we're not checking against itself
             var _distanceToOtherUnit = point_distance(x, y, other.x, other.y);
             
             // If the unit is within the separation radius, apply a push force
@@ -26,8 +26,8 @@ function checkMovement() {
                 var _pushDirection = point_direction(x, y, other.x, other.y);
                 
                 // Apply a small push in the opposite direction
-                other.x += lengthdir_x(pushForce, _pushDirection + 180);
-                other.y += lengthdir_y(pushForce, _pushDirection + 180);
+                x += lengthdir_x(pushForce, _pushDirection + 180);
+                y += lengthdir_y(pushForce, _pushDirection + 180);
             }
         }
     }

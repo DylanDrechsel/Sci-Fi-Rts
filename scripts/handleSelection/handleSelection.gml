@@ -20,7 +20,7 @@ function handleSelection() {
 		// The unit will be selected
 		var _clickThreshold = 5;
 		
-		// Calculate if the selection box is within the "_clickThreshold
+		// Calculate if the selection box is within the "_clickThreshold"
 		var _isClicked = abs(boxEndX - boxStartX) < _clickThreshold && abs(boxEndY - boxStartY) < _clickThreshold;
 
         // Clear the selectedUnits array
