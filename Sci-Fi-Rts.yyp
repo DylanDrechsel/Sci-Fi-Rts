@@ -36,6 +36,8 @@
   },
   "name":"Sci-Fi-Rts",
   "resources":[
+    {"id":{"name":"checkMovement Old Script","path":"notes/checkMovement Old Script/checkMovement Old Script.yy",},},
+    {"id":{"name":"handleSelection Old Sctipt","path":"notes/handleSelection Old Sctipt/handleSelection Old Sctipt.yy",},},
     {"id":{"name":"oBuilder","path":"objects/oBuilder/oBuilder.yy",},},
     {"id":{"name":"oBuilderParent","path":"objects/oBuilderParent/oBuilderParent.yy",},},
     {"id":{"name":"oController","path":"objects/oController/oController.yy",},},

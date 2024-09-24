@@ -5,4 +5,4 @@ selected = false
 targetX = x;
 targetY = y;
 separationRadius = 32; // The minimum distance units should maintain from each other
-pushForce = -4; // The amount of force to push units apart
+pushForce = 4; // The amount of force to push units apart
