@@ -19,6 +19,8 @@
     {"name":"Resource Truck","order":2,"path":"folders/Units/Resource Truck.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"checkMovement Old Script","order":3,"path":"notes/checkMovement Old Script/checkMovement Old Script.yy",},
+    {"name":"handleSelection Old Sctipt","order":2,"path":"notes/handleSelection Old Sctipt/handleSelection Old Sctipt.yy",},
     {"name":"oBuilder","order":1,"path":"objects/oBuilder/oBuilder.yy",},
     {"name":"oResourceTruck","order":1,"path":"objects/oResourceTruck/oResourceTruck.yy",},
     {"name":"oSoldierParent","order":1,"path":"objects/oSoldierParent/oSoldierParent.yy",},
