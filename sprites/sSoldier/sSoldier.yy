@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"scifiUnit_03",
+  "%Name":"sSoldier",
   "bboxMode":0,
   "bbox_bottom":43,
   "bbox_left":22,
@@ -21,9 +21,9 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"5c0f4d19-fa4a-4b63-9f04-9115bbd4e9ef","blendMode":0,"displayName":"default","isLocked":false,"name":"5c0f4d19-fa4a-4b63-9f04-9115bbd4e9ef","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"scifiUnit_03",
+  "name":"sSoldier",
   "nineSlice":null,
-  "origin":0,
+  "origin":4,
   "parent":{
     "name":"Blue",
     "path":"folders/All Assets/Blue.yy",
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"scifiUnit_03",
+    "%Name":"sSoldier",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"scifiUnit_03",
+    "name":"sSoldier",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a0cd6702-35a8-43f8-8ddb-4300d183ccd9","path":"sprites/scifiUnit_03/scifiUnit_03.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a0cd6702-35a8-43f8-8ddb-4300d183ccd9","path":"sprites/sSoldier/sSoldier.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"deab9207-79fc-4ea4-89b3-a867c5918d19","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
-    "yorigin":0,
+    "xorigin":32,
+    "yorigin":32,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
